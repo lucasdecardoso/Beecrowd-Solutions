@@ -6,7 +6,7 @@ int main() {
     
     scanf("%d %d %d %d", &horaInicial, &minutoInicial, &horaFinal, &minutoFinal);
     
-    horaInicial = horaInicial * 60;
+    horaInicial = horaInicial * 60; //converter para minutos
     horaFinal = horaFinal * 60;
     minutoInicial =  minutoInicial + horaInicial;
     minutoFinal = minutoFinal + horaFinal;
