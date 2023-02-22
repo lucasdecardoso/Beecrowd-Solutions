@@ -1,4 +1,4 @@
-# :yellow_circle:	URI-Problems
+# :yellow_circle:	Beecrowd-Problems
 Desafios de código da plataforma Beecrowd/URI Online Judge.
 
 Plataforma: www.beecrowd.com.br/judge
