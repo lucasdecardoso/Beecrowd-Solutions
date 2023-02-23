@@ -11,7 +11,6 @@ Exemplo: 0:9:16
 */
 
 using System; 
-using System.Globalization;
 
 class URI 
 {
