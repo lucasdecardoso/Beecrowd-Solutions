@@ -15,6 +15,7 @@ Exemplo: R1 = -0.29788
 
 using System; 
 using System.Globalization;
+
 class URI 
 {
 
