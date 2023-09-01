@@ -1,5 +1,5 @@
 /*
-beecrowd | 1151Fibonacci Fácil
+beecrowd | 1151 - Fibonacci Fácil
 
 A seguinte sequência de números 0 1 1 2 3 5 8 13 21... é conhecida como série de Fibonacci.
 Nessa sequência, cada número, depois dos 2 primeiros, é igual à soma dos 2 anteriores. 
